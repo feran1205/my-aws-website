@@ -1,0 +1,5 @@
+.env
+*.pem
+*.csv
+credentials
+.DS_Store
