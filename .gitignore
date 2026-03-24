@@ -1,6 +1,0 @@
-.env
-.gitignore
-*.pem
-*.csv
-credentials
-.DS_Store
